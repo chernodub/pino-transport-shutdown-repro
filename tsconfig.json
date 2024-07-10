@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+    "allowJs": true,
+    "checkJs": true,
+    "outDir": "dist"
+  }
+}
